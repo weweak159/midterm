@@ -1,0 +1,793 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.top{
+    background-color: #D4111A;
+    height: 50px;
+    width: 1570px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.first{
+    position: relative;
+    font-family: "Inter";
+    color: white;
+    font-size: 13px;
+    left: 120px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.globe{
+    position: relative;
+    top: -47px;
+    padding: 0;
+    left: 95px;
+    color: red;
+}
+
+.follow{
+    position: relative;
+    /* color: white; */
+    /* font-family: "Inter"; */
+    font-size: 13px;
+    top: -48px;
+    left: 1310px;
+}
+
+.title{
+    position: relative;
+    font-family: "Inter";
+    color: #D4111A;
+    font-size: 32px;
+    left: 100px;
+    top: -69px;
+}
+
+.home{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 390px;
+}
+
+.abouts{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -280px;
+    left: 525px;
+}
+
+.services{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -337px;
+    left: 648px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.pages{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -393px;
+    left: 800px;
+}
+
+.shop{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -449px;
+    left: 933px;
+}
+
+.blog{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -505px;
+    left: 1050px;
+}
+
+.contact{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -560px;
+    left: 1160px;
+}
+
+.arrow1{
+    position: relative;
+    top: -223px;
+    left: 439px;
+}
+
+.arrow2{
+    position: relative;
+    top: -223px;
+    left: 537px;
+}
+
+.arrow3{
+    position: relative;
+    top: -223px;
+    left: 648px;
+}
+
+.arrow4{
+    position: relative;
+    top: -223px;
+    left: 740px;
+}
+
+.arrow5{
+    position: relative;
+    top: -223px;
+    left: 828px;
+}
+
+.arrow6{
+    position: relative;
+    top: -223px;
+    left: 905px;
+}
+
+.arrow7{
+    position: relative;
+    top: -223px;
+    left: 1007px;
+}
+
+.cart{
+    position: relative;
+    top: -623px;
+    left: 1340px;
+}
+
+.search{
+    position: relative;
+    top: -623px;
+    left: 1353px;
+}
+
+.menu{
+    position: relative;
+    top: -623px;
+    left: 1367px;
+}
+
+.pic1{
+    position: relative;
+    top: -600px;
+    width: 1570px;
+}
+
+.bg1{
+    position: relative;
+    top: -1478px;
+    height: 873px;
+    width: 802px;
+}
+
+.journey{
+    position: relative;
+    font-family: "Inter";
+    font-size: 96px;
+    top: -2330px;
+    left: 125px;
+    color: white;
+    line-height: 120%;
+}
+
+.fast{
+    position: relative;
+    font-family: "Inter";
+    font-size: 36px;
+    top: -2410px;
+    left: 125px;
+    color: white;
+    line-height: 150%;
+}
+
+.peso{
+    position: relative;
+    font-family: "Inter";
+    font-size: 64px;
+    color: #D4111A;
+    font-weight: 900px;
+    top: -2480px;
+    left: 125px;
+    font-style: black;
+}
+
+.month{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    color: white;
+    top: -2628px;
+    left: 315px;
+    font-style: black;
+}
+
+.txt{
+    background-color: #D4111A;
+    font-family: "Inter";
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: 0;
+    top: -2600px;
+    position: relative;
+    left: 125px;
+}
+
+.cervice{
+    position: relative;
+    color: #D4111A;
+    font-size: 20px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2350px;
+}
+
+.enjoy{
+    position: relative;
+    font-size: 32px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2380px;
+}
+
+.rec1{
+    position: relative;
+    top: -2430px;
+    left: 110px;
+}
+
+.rec2{
+    position: relative;
+    top: -2430px;
+    left: 100px;
+}
+
+.rec3{
+    position: relative;
+    top: -2430px;
+    left: 90px;
+}
+
+.rec4{
+    position: relative;
+    top: -2430px;
+    left: 80px;
+}
+
+.broadband{
+    position: relative;
+    top: -2680px;
+    right: 1250px;
+}
+
+.wifi{
+    position: relative;
+    top: -2800px;
+    left: 500px;
+}
+
+.satellite{
+    position: relative;
+    top: -2800px;
+    left: 745px;
+}
+
+.tv{
+    position: relative;
+    top: -2800px;
+    left: 995px;
+}
+
+.broadband2{
+    position: relative;
+    top: -2790px;
+    left: 160px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.wifi2{
+    position: relative;
+    top: -2860px;
+    left: 500px;
+    font-size: 20px;
+    font-family: "Inter";
+    color: white;
+}
+
+.satellite2{
+    position: relative;
+    top: -2925px;
+    left: 843px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.tv2{
+    position: relative;
+    top: -2995px;
+    left: 1190px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.broadband3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3000px;
+    left: 160px;
+}
+
+.wifi3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3105px;
+    left: 500px;
+    color: white;
+}
+
+.satellite3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3210px;
+    left: 845px;
+}
+
+.tv3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3315px;
+    left: 1190px;
+}
+
+.rec5{
+    position: relative;
+    top: -3100px;
+    left: 250px;
+}
+
+.img7{
+    position: relative;
+    top: -3150px;
+    right: 300px;
+    width: 500px;
+}
+
+.rec6{
+    position: relative;
+    top: -3550px;
+    right: 877px;
+}
+
+.img9{
+    position: relative;
+    top: -3045px;
+    right: 750px;
+}
+
+.num{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    top: -3770px;
+    color:#D4111A;
+    border: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    left: 306px;
+    border-radius: 10px;
+}
+
+.group30{
+    position: relative;
+    top: -3797px;
+    left: 281px;
+}
+
+.lol{
+    position: relative;
+    font-family: "Inter";
+    font-size: 64px;
+    top: -3870px;
+    left: 110px;
+    color: white;
+}
+
+.yrs{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3970px;
+    left: 110px;
+    color: white;
+}
+
+.group32{
+    position: relative;
+    top: -3995px;
+    left: 108px;
+}
+
+.trust{
+    position: relative;
+    font-size: 15px;
+    font-family: "Inter";
+    top: -4042px;
+    left: 250px;
+    color: white;
+}
+
+
+.about{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -4300px;
+    left: 810px;
+    color:#D4111A;
+}
+
+.provide{
+    position: relative;
+    font-size: 42px;
+    font-family: "Inter";
+    top: -4315px;
+    left: 810px;
+    line-height: 120%;
+}
+
+.value{
+    position: relative;
+    font-size: 20px;
+    top: -4350px;
+    font-family: "Inter";
+    left: 810px;
+    line-height: 130%;
+    opacity: 80%;
+}
+
+.vector{
+    position: relative;
+    top: -4320px;
+    left: 814px;
+}
+
+.vector2{
+    position: relative;
+    top: -4320px;
+    left: 1100px;
+}
+
+.ultra{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -4345px;
+    left: 815px;
+}
+
+.fully{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -4420px;
+    left: 1167px;
+}
+
+.reception{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -4450px;
+    left: 815px;
+    font-weight: 400;
+    line-height: 130%;
+    opacity: 80%;
+}
+
+.security{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -4550px;
+    left: 1166px;
+    font-weight: 400;
+    line-height: 130%;
+    opacity: 80%;
+}
+
+.check1{
+    position: relative;
+    top: -4500px;
+    left: 820px;
+}
+
+.check2{
+    position: relative;
+    top: -4470px;
+    left: 790px;
+}
+
+.check3{
+    position: relative;
+    top: -4440px;
+    left: 760px;
+}
+
+.export{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter";
+    top: -4550px;
+    left: 850px;
+    line-height: 1.5;
+}
+
+.pec{
+    position: relative;
+    width: 56px;
+    top: -4530px;
+    left: 925px;
+}
+
+.pic2{
+    position: relative;
+    width: 76px;
+    top: -4520px;
+    left: 820px;
+}
+
+.pic3{
+    position: relative;
+    width: 56px;
+    top: -4530px;
+    left: 715px;
+}
+
+.pic4{
+    position: relative;
+    width: 56px;
+    top: -4530px;
+    left: 620px;
+}
+
+.our{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -4600px;
+    left: 990px;
+}
+
+.rec13{
+    position: relative;
+    top: -4530px;
+    width: 1570px;
+
+}
+
+.choose{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -5400px;
+    left: 90px;
+    color:#D4111A;
+}
+
+.usage{
+    position: relative;
+    font-size: 42px;
+    font-family: "Inter";
+    top: -5430px;
+    left: 89px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.babae{
+    position: relative;
+    top: -5640px;
+    left: 680px;
+}
+
+.butt2{
+    position: relative;
+    top: -6250px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    background-color: #D4111A;
+    right: 775px;
+}
+
+.butt3{
+    position: relative;
+    top: -6250px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+    right: 735px;
+}
+
+.butt4{
+    position: relative;
+    top: -6250px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+    right: 705px;
+}
+
+.butt5{
+    position: relative;
+    font-size: 75px;
+    font-family: "Inter";
+    font-weight: 400;
+    border-radius: 5px;
+    border-color: #D4111A;
+    top: -6200px;
+    padding-left: 50px;
+    padding-right: 110px;
+    left: 90px;
+    color: #D4111A;
+}
+
+.pesosign{
+    position: relative;
+    top: -6310px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 125px;
+    color: #6b6767;
+}
+
+.hays{
+    position: relative;
+    top: -6370px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 290px;
+    color: #6b6767;
+}
+
+.nyenye{
+    position: relative;
+    font-size: 75px;
+    font-family: "Inter";
+    font-weight: 400;
+    /* border: 2px; */
+    border-radius: 5px;
+    border-color: #D4111A;
+    top: -6600px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 110px;
+    left: 420px;
+}
+
+.pesosigns{
+    position: relative;
+    top: -6790px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 450px;
+    color: #6b6767;
+}
+
+.fee{
+    position: relative;
+    top: -6850px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 620px;
+    color: #6b6767;
+}
+
+.check4{
+    position: relative;
+    top: -6730px;
+    left: 99px;
+}
+
+.check5{
+    position: relative;
+    top: -6700px;
+    left: 69px;
+}
+
+.check6{
+    position: relative;
+    top: -6670px;
+    left: 39px;
+}
+
+.exports{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter";
+    top: -6782px;
+    left: 130px;
+    line-height: 1.5;
+}
+
+.kokoy{
+    position: relative;
+    top: -6820px;
+    font-family: "Inter";
+    font-size: 38px;
+    left: 100px;
+    font-weight: 400;
+}
+
+.lastna{
+    position: relative;
+    top: -6770px;
+}

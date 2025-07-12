@@ -1,0 +1,636 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.top{
+    background-color: #D4111A;
+    margin-top: 20px;
+}
+
+.first{
+    position: relative;
+    font-family: "Inter";
+    color: white;
+    font-size: 13px;
+    left: 120px;
+    padding-top: 15px;
+    padding-bottom: 17px;
+}
+
+.globe{
+    position: relative;
+    top: -55px;
+    padding: 0;
+    left: 95px;
+    color: red;
+}
+
+.follow{
+    position: relative;
+    /* color: white; */
+    /* font-family: "Inter"; */
+    font-size: 13px;
+    top: -48px;
+    left: 1310px;
+}
+
+.title{
+    position: relative;
+    font-family: "Inter";
+    color: #D4111A;
+    font-size: 32px;
+    left: 100px;
+    top: -55px;
+}
+
+.ul > li{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.home{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 350px;
+    text-decoration: none;
+    color: black;
+}
+
+.abouts{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 430px;
+}
+
+.services{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 500px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.pages{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 572px;
+}
+
+.shop{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 650px;
+}
+
+.blog{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 720px;
+}
+
+.contact{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -170px;
+    left: 790px;
+}
+
+.arrow1{
+    position: relative;
+    top: -255px;
+    left: 439px;
+}
+
+.arrow2{
+    position: relative;
+    top: -255px;
+    left: 536px;
+}
+
+.arrow3{
+    position: relative;
+    top: -255px;
+    left: 648px;
+}
+
+.arrow4{
+    position: relative;
+    top: -255px;
+    left: 740px;
+}
+
+.arrow5{
+    position: relative;
+    top: -255px;
+    left: 828px;
+}
+
+.arrow6{
+    position: relative;
+    top: -255px;
+    left: 905px;
+}
+
+.arrow7{
+    position: relative;
+    top: -255px;
+    left: 1007px;
+}
+
+.cart{
+    position: relative;
+    top: -250px;
+    left: 1090px;
+}
+
+.search{
+    position: relative;
+    top: -250px;
+    left: 1102px;
+}
+
+.menu{
+    position: relative;
+    top: -250px;
+    left: 1115px;
+}
+
+.bg{
+    position: relative;
+    width: 1572px;
+    bottom: 230px;
+}
+
+.txt{
+    position: relative;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 115px;
+    font-weight: 600;
+    bottom: 1170px;
+    color: white;
+}
+
+.rec9{
+    position: relative;
+    width: 1572px;
+    bottom: 1175px;
+}
+
+.cervice{
+    position: relative;
+    color: #D4111A;
+    font-size: 20px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2100px;
+}
+
+.enjoy{
+    position: relative;
+    font-size: 32px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2110px;
+    color: white;
+    line-height: 130%;
+}
+
+.rec1{
+    position: relative;
+    top: -2500px;
+    left: 110px;
+}
+
+.rec2{
+    position: relative;
+    top: -2500px;
+    left: 135px;
+}
+
+.rec3{
+    position: relative;
+    top: -2500px;
+    left: 165px;
+}
+
+.rec4{
+    position: relative;
+    top: -2500px;
+    left: 190px;
+}
+
+.recs{
+    position: relative;
+    top: 400px;
+}
+
+.choi{
+    position: relative;
+    text-align: center;
+    font-family: "Inter";
+    right: 520px;
+    top: -2500px;
+    color: white;
+    font-weight: 300;
+}
+
+.datu{
+    position: relative;
+    text-align: center;
+    font-family: "Inter";
+    right: 180px;
+    top: -2590px;
+    color: white;
+    font-weight: 300;
+}
+
+.king{
+    position: relative;
+    text-align: center;
+    font-family: "Inter";
+    left: 170px;
+    top: -2678px;
+    color: white;
+    font-weight: 300;
+}
+
+.president{
+    position: relative;
+    text-align: center;
+    font-family: "Inter";
+    left: 514px;
+    top: -2730px;
+    color: white;
+    font-weight: 300;
+}
+
+.textie{
+    position: relative;
+    font-family: "Inter";
+    color: white;
+    background-color: #D4111A;
+    border: 0;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 5px;
+    top: -2700px;
+    left: 640px;
+}
+
+.investors{
+    position: relative;
+    text-align: center;
+    color: #D4111A;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: "Inter";
+    top: -2200px;
+}
+
+.shops{
+    position: relative;
+    text-align: center;
+    font-size: 32px;
+    font-family: "Inter";
+    /* font-weight: 700; */
+    top: -2230px;
+    line-height: 130%;
+}
+
+.rounds{
+    position: relative;
+    top: -3200px;
+    left: 85px;
+}
+
+.hot{
+    position: relative;
+    background-color: #D4111A;
+    color: white;
+    font-family: "Inter";
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 800;
+    top: -2670px;
+    left: 125px;
+    height: 120%;
+}
+
+.sale1{
+    position: relative;
+    background-color: #D4111A;
+    color: white;
+    font-family: "Inter";
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 800;
+    top: -2670px;
+    left: 380px;
+    height: 120%;
+}
+
+.sale2{
+    position: relative;
+    background-color: #D4111A;
+    color: white;
+    font-family: "Inter";
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 800;
+    top: -2670px;
+    left: 630px;
+    height: 120%;
+}
+
+.sale3{
+    position: relative;
+    background-color: #D4111A;
+    color: white;
+    font-family: "Inter";
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 800;
+    top: -2670px;
+    left: 875px;
+    height: 120%;
+}
+
+.imgsss{
+    position: relative;
+    top: -3590px;
+}
+
+.img18{
+    position: relative;
+    left: 150px;
+    bottom: 30px;
+}
+
+.img19{
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+}
+
+.img20{
+    position: relative;
+    left: 340px;
+    /* bottom: 10px; */
+}
+
+.img21{
+    position: relative;
+    left: 470px;
+    bottom: 35px;
+}
+
+.lalala > li{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Inter";
+    top: -3640px;
+    right: 100px;
+    margin-left: 190px;
+}
+
+.allin{
+    position: relative;
+    top: -2600px;
+}
+
+.lololo{
+    position: relative;
+    top: -900px;
+}
+
+.pesos > li{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Inter";
+    top: -3660px;
+    right: 160px;
+    margin-left: 250px;
+}
+
+.meter{
+    position: relative;
+    left: -125px;
+}
+
+.from{
+    position: relative;
+    left: -165px;
+}
+
+.popo{
+    position: relative;
+    left: -175px;
+}
+
+.pesoss{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Inter";
+    top: -3720px;
+    left: 370px;
+    margin-left: 225px;
+    color: grey;
+}
+
+.qqq{
+    position: relative;
+    bottom: 81px;
+    left: 355px;
+}
+
+.www{
+    position: relative;
+    bottom: 19px;
+    left: 35px;
+}
+
+.eee{
+    position: relative;
+    bottom: 145px;
+    left: 708px;
+}
+
+.lelele{
+    position: relative;
+    bottom: 1850px;
+    width: 1570px;
+    height: 1150px;
+}
+
+.about{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3580px;
+    left: 810px;
+    color:#D4111A;
+    font-weight: 900;
+}
+
+.provide{
+    position: relative;
+    font-size: 42px;
+    font-family: "Inter";
+    top: -3585px;
+    left: 810px;
+}
+
+.value{
+    position: relative;
+    font-size: 20px;
+    top: -3600px;
+    font-family: "Inter";
+    left: 810px;
+}
+
+.vector{
+    position: relative;
+    top: -3560px;
+    left: 814px;
+}
+
+.vector2{
+    position: relative;
+    top: -3560px;
+    left: 1100px;
+}
+
+.ultra{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -3575px;
+    left: 815px;
+}
+
+.fully{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -3650px;
+    left: 1167px;
+}
+
+.reception{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3680px;
+    left: 815px;
+    font-weight: 400;
+    line-height: 130%;
+}
+
+.security{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3780px;
+    left: 1166px;
+    font-weight: 400;
+    line-height: 130%;
+}
+
+.lplplp{
+    position: relative;
+    bottom: 200px;
+}
+
+.texties{
+    position: relative;
+    font-family: "Inter";
+    color: white;
+    background-color: #D4111A;
+    border: 0;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 5px;
+    top: -3760px;
+    left: 817px;
+}
+
+.qwe{
+    position: relative;
+    top: -4575px;
+}
+
+.rec19{
+    position: relative;
+    top: -4575px;
+    right: 770px;
+}
+
+.lastna{
+    position: relative;
+    top: -4600px;
+}
