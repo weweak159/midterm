@@ -516,9 +516,9 @@ body{
 
 .lelele{
     position: relative;
-    bottom: 1850px;
+    bottom: 1940px;
     width: 1570px;
-    height: 1150px;
+    height: 1050px;
 }
 
 .about{
@@ -535,27 +535,29 @@ body{
     position: relative;
     font-size: 42px;
     font-family: "Inter";
-    top: -3585px;
+    top: -3620px;
     left: 810px;
+    line-height: 130%;
 }
 
 .value{
     position: relative;
     font-size: 20px;
-    top: -3600px;
+    top: -3650px;
     font-family: "Inter";
     left: 810px;
+    line-height: 130%;
 }
 
 .vector{
     position: relative;
-    top: -3560px;
+    top: -3610px;
     left: 814px;
 }
 
 .vector2{
     position: relative;
-    top: -3560px;
+    top: -3610px;
     left: 1100px;
 }
 
@@ -564,7 +566,7 @@ body{
     font-family: "Inter";
     font-size: 24px;
     font-weight: 600;
-    top: -3575px;
+    top: -3640px;
     left: 815px;
 }
 
@@ -573,7 +575,7 @@ body{
     font-family: "Inter";
     font-size: 24px;
     font-weight: 600;
-    top: -3650px;
+    top: -3720px;
     left: 1167px;
 }
 
@@ -581,7 +583,7 @@ body{
     position: relative;
     font-size: 20px;
     font-family: "Inter";
-    top: -3680px;
+    top: -3750px;
     left: 815px;
     font-weight: 400;
     line-height: 130%;
@@ -591,7 +593,7 @@ body{
     position: relative;
     font-size: 20px;
     font-family: "Inter";
-    top: -3780px;
+    top: -3850px;
     left: 1166px;
     font-weight: 400;
     line-height: 130%;
@@ -615,22 +617,22 @@ body{
     padding-right: 60px;
     padding-left: 60px;
     border-radius: 5px;
-    top: -3760px;
+    top: -3790px;
     left: 817px;
 }
 
 .qwe{
     position: relative;
-    top: -4575px;
+    top: -4610px;
 }
 
 .rec19{
     position: relative;
-    top: -4575px;
+    top: -4610px;
     right: 770px;
 }
 
 .lastna{
     position: relative;
-    top: -4600px;
+    top: -4634px;
 }
