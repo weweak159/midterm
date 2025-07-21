@@ -22,7 +22,7 @@ body{
 
 .globe{
     position: relative;
-    top: -47px;
+    top: -53px;
     padding: 0;
     left: 95px;
     color: red;
@@ -599,10 +599,16 @@ body{
     left: 990px;
 }
 
+.sec{
+    position: relative;
+    top: -100px;
+}
+
 .rec13{
     position: relative;
-    top: -4530px;
+    top: -4500px;
     width: 1570px;
+    height: 1000px;
 
 }
 
@@ -610,7 +616,7 @@ body{
     position: relative;
     font-size: 20px;
     font-family: "Inter";
-    top: -5400px;
+    top: -5300px;
     left: 90px;
     color:#D4111A;
 }
@@ -619,7 +625,7 @@ body{
     position: relative;
     font-size: 42px;
     font-family: "Inter";
-    top: -5430px;
+    top: -5300px;
     left: 89px;
     font-weight: 700;
     line-height: 120%;
@@ -627,13 +633,22 @@ body{
 
 .babae{
     position: relative;
-    top: -5640px;
-    left: 680px;
+    width: 700px;
+    height: 700px;
+    top: -5380px;
+    left: 850px;
 }
+
+.mbps{
+    position: relative;
+    top: 100px;
+    left: 605px;
+}
+
 
 .butt2{
     position: relative;
-    top: -6250px;
+    top: -6090px;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 20px;
@@ -645,12 +660,12 @@ body{
     border-radius: 10px;
     color: white;
     background-color: #D4111A;
-    right: 775px;
+    right: 500px;
 }
 
 .butt3{
     position: relative;
-    top: -6250px;
+    top: -6090px;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 20px;
@@ -661,12 +676,12 @@ body{
     border: 0;
     border-radius: 10px;
     background-color: white;
-    right: 735px;
+    right: 430px;
 }
 
 .butt4{
     position: relative;
-    top: -6250px;
+    top: -6090px;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 20px;
@@ -677,7 +692,13 @@ body{
     border: 0;
     border-radius: 10px;
     background-color: white;
-    right: 705px;
+    right: 340px;
+}
+
+.monthly{
+    position: relative;
+    top: -50px;
+    
 }
 
 .butt5{
@@ -687,16 +708,16 @@ body{
     font-weight: 400;
     border-radius: 5px;
     border-color: #D4111A;
-    top: -6200px;
+    top: -5880px;
     padding-left: 50px;
     padding-right: 110px;
-    left: 90px;
+    left: 100px;
     color: #D4111A;
 }
 
 .pesosign{
     position: relative;
-    top: -6310px;
+    top: -5995px;
     font-size: 20px;
     font-family: "Inter";
     font-weight: 400;
@@ -706,7 +727,7 @@ body{
 
 .hays{
     position: relative;
-    top: -6370px;
+    top: -6050px;
     font-size: 20px;
     font-family: "Inter";
     font-weight: 400;
@@ -722,7 +743,7 @@ body{
     /* border: 2px; */
     border-radius: 5px;
     border-color: #D4111A;
-    top: -6600px;
+    top: -6280px;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 50px;
@@ -732,7 +753,7 @@ body{
 
 .pesosigns{
     position: relative;
-    top: -6790px;
+    top: -6470px;
     font-size: 20px;
     font-family: "Inter";
     font-weight: 400;
@@ -742,7 +763,7 @@ body{
 
 .fee{
     position: relative;
-    top: -6850px;
+    top: -6526px;
     font-size: 20px;
     font-family: "Inter";
     font-weight: 400;
@@ -752,20 +773,26 @@ body{
 
 .check4{
     position: relative;
-    top: -6730px;
+    top: -6450px;
     left: 99px;
 }
 
 .check5{
     position: relative;
-    top: -6700px;
+    top: -6418px;
     left: 69px;
 }
 
 .check6{
     position: relative;
-    top: -6670px;
+    top: -6387px;
     left: 39px;
+}
+
+.checking{
+    position: relative;
+    top: -50px;
+    
 }
 
 .exports{
@@ -773,14 +800,14 @@ body{
     font-size: 20px;
     font-weight: 400;
     font-family: "Inter";
-    top: -6782px;
+    top: -6500px;
     left: 130px;
     line-height: 1.5;
 }
 
 .kokoy{
     position: relative;
-    top: -6820px;
+    top: -6590px;
     font-family: "Inter";
     font-size: 38px;
     left: 100px;
@@ -789,5 +816,10 @@ body{
 
 .lastna{
     position: relative;
-    top: -6770px;
+    top: -6650px;
+}
+
+.globe2{
+    position: relative;
+    top: -6500px;
 }
